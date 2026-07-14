@@ -147,14 +147,6 @@ Each conversation is maintained using a unique:
 thread_id
 ```
 
-## 💡 Future Improvements
-
-* Add PostgreSQL persistent chat memory
-* Add user authentication
-* Add RAG document search
-* Add web search tools
-* Add chat history database
-* Deploy using Docker and AWS
 
 ## 📌 Learning Goals
 
